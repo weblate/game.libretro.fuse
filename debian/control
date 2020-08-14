@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: ZX Spectrum (Fuse) core for kodi's retroplayer
- ZX Spectrum (Fuse) core for kodi's retroplayer
+Description: Sinclair - ZX Spectrum (Fuse) core for kodi's retroplayer
+ Sinclair - ZX Spectrum (Fuse) core for kodi's retroplayer
